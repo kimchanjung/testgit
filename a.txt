@@ -1,3 +1,9 @@
 commit from dev
 change1
+<<<<<<< HEAD
 change2
+=======
+change2
+change3
+change4
+>>>>>>> parent of b5f168f (revert 4 3 2)
